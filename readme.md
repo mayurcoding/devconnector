@@ -15,3 +15,49 @@ Dev Connector is designed to bring together professionals from various fields, p
 - **Real-time Notifications**: Stay updated with real-time notifications for new connections, comments, and messages.
 
 Dev Connector aims to foster a vibrant and supportive community for professionals, helping them grow their careers and achieve their professional goals.
+
+## Installation
+
+To get started with Dev Connector, follow these steps:
+
+1. **Clone the repository**:
+    ```bash
+    git clone https://github.com/yourusername/dev_connector.git
+    ```
+2. **Navigate to the project directory**:
+    ```bash
+    cd dev_connector
+    ```
+3. **Install dependencies**:
+    ```bash
+    npm install
+    ```
+4. **Set up environment variables**: Create a `.env` file in the root directory and add the necessary environment variables as specified in the `.env.example` file.
+5. **Run the application**:
+    ```bash
+    npm run dev
+    ```
+
+The application should now be running on `http://localhost:3000`. You can open this URL in your browser to access Dev Connector.
+
+## Contributing
+
+We welcome contributions from the community! If you would like to contribute to Dev Connector, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix:
+    ```bash
+    git checkout -b feature/your-feature-name
+    ```
+3. Make your changes and commit them with a clear and descriptive commit message.
+4. Push your changes to your forked repository:
+    ```bash
+    git push origin feature/your-feature-name
+    ```
+5. Open a pull request to the main repository, describing your changes and the motivation behind them.
+
+We will review your pull request and provide feedback. Once approved, your changes will be merged into the main repository.
+
+## License
+
+Dev Connector is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
