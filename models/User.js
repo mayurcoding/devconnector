@@ -17,7 +17,6 @@ const UserScheme = new scheme({
     },
     avatar: {
         type: String,
-        required: true
     },
     date: {
         type: Date,
