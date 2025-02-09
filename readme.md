@@ -361,7 +361,7 @@ When building a full-stack application with the MERN stack, the development proc
 
 1. **Set Up the Backend**: Start by setting up the backend using Node.js and Express.js. Create a new Express application, define routes, and implement RESTful API endpoints to handle CRUD operations. Use MongoDB and Mongoose to interact with the database and perform data operations.
 
-2. **Create the Frontend**: Set up the frontend using React. Create reusable components and manage the application state using React hooks or Redux. Use React Router to handle client-side routing and create a seamless user experience.
+2. **Create the Frontend**: Set up the frontend using React. Create reusable components and manage the application state using React hooks or Redux. Use React Router to handle client-side routing andeate a seamless user experience.
 
 3. **Connect Frontend and Backend**: Integrate the frontend with the backend by making HTTP requests from React components to the Express API endpoints. Use libraries like axios or fetch to handle these requests and update the state based on the responses.
 
