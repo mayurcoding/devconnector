@@ -370,3 +370,88 @@ When building a full-stack application with the MERN stack, the development proc
 5. **Deployment**: Deploy the application to a hosting platform like Heroku, Vercel, or AWS. Configure the environment variables and set up the necessary build and deployment scripts to ensure a smooth deployment process.
 
 By following these steps and leveraging the power of the MERN stack, developers can build robust, scalable, and maintainable full-stack web applications. The combination of MongoDB, Express.js, React, Node.js, and Redux provides a comprehensive solution for modern web development, enabling developers to create feature-rich applications with ease.
+## Resume
+
+### John Doe
+
+**Email:** john.doe@example.com  
+**Phone:** (123) 456-7890  
+**LinkedIn:** [linkedin.com/in/johndoe](https://linkedin.com/in/johndoe)  
+**GitHub:** [github.com/johndoe](https://github.com/johndoe)  
+
+---
+
+### Objective
+
+Recent graduate with a Bachelor's degree in Computer Science, passionate about web development and eager to contribute to a dynamic team. Proficient in the MERN stack (MongoDB, Express.js, React, Node.js) and committed to building efficient and scalable web applications.
+
+---
+
+### Education
+
+**Bachelor of Science in Computer Science**  
+University of Technology, 2021 - 2025  
+- Graduated with Honors
+- Relevant coursework: Web Development, Database Systems, Software Engineering, Data Structures and Algorithms
+
+---
+
+### Skills
+
+- **Languages:** JavaScript, HTML, CSS
+- **Frameworks/Libraries:** React, Express.js, Node.js
+- **Databases:** MongoDB, SQL
+- **Tools:** Git, npm, Webpack, Docker
+- **Other:** RESTful APIs, JSON, AJAX, Agile methodologies
+
+---
+
+### Projects
+
+**Dev Connector**  
+- Developed a social network for professionals using the MERN stack.
+- Implemented user authentication, profile creation, and real-time notifications.
+- Integrated MongoDB for data storage and managed state with Redux.
+
+**E-commerce Website**  
+- Built a full-stack e-commerce application with React and Node.js.
+- Implemented product listings, shopping cart functionality, and payment integration.
+- Deployed the application on Heroku and configured CI/CD pipelines.
+
+**Blogging Platform**  
+- Created a blogging platform with user authentication and CRUD operations.
+- Used Express.js for the backend and React for the frontend.
+- Implemented rich text editing and comment functionality.
+
+---
+
+### Experience
+
+**Web Development Intern**  
+Tech Solutions Inc., Summer 2024  
+- Assisted in developing and maintaining web applications using the MERN stack.
+- Collaborated with senior developers to implement new features and fix bugs.
+- Participated in code reviews and contributed to improving code quality.
+
+---
+
+### Certifications
+
+- **MERN Stack Front To Back: Full Stack React, Redux & Node.js** - Udemy
+- **Full-Stack Web Development with React** - Coursera
+
+---
+
+### Additional Information
+
+- **Hackathons:** Participated in multiple hackathons, winning awards for innovative web applications.
+- **Open Source:** Contributed to several open-source projects on GitHub.
+- **Workshops:** Attended workshops on advanced JavaScript, React, and Node.js.
+
+---
+
+### References
+
+Available upon request.
+
+
